@@ -17,7 +17,7 @@ public class Bootcamp {
 
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("Quantas pessoas contratadas ?");
+        System.out.println("Quantas pessoas foram contratadas?");
         pessoasContratadas = scan.nextInt();
     }
 
