@@ -9,9 +9,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
-        int pessoasContratadas = 0;
-
         Curso curso1 = new Curso();
         curso1.setTitulo("curso de java");
         curso1.setDescricao("como aprender orientação ao objeto");
